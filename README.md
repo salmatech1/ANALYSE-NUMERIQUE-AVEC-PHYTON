@@ -1,0 +1,1 @@
+This repository contains Python implementations of numerical analysis algorithms, including the bisection, Newton, and secant methods, for solving nonlinear equations and nonlinear systems, with practical examples and analysis of convergence.
